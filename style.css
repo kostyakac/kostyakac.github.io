@@ -1,0 +1,13 @@
+h1{
+background:grey;
+font-family:Arial,sans-serif;
+font-size:30px;
+}
+body{
+background:blue;
+}
+p{
+font-family:TimesNewRoman,sans-serif;
+font-style:italic;
+font-weight:bold;
+}
