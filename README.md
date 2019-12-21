@@ -1,2 +1,2 @@
-# kostyakac.gitub.io
+# kostyakac.github.io
 Поставте 3
